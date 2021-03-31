@@ -32,10 +32,7 @@ video {
     font-size: 30px;
     margin-right: 120vh;
   }
-  .admins > p {
-    
-    text-transform: uppercase;
-  }
+  
   .hero-container > h1 {
     color: #fff;
     font-size: 100px;
