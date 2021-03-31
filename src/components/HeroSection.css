@@ -22,12 +22,20 @@ video {
     margin-left: 140vh;
     font-weight: 800;
   }
+  .design > h1 {
+    color: #fff;
+    text-transform: uppercase;
+    background-color: black;
+  }
   .adress > p {
     color: #fff;
     font-size: 30px;
     margin-right: 120vh;
   }
-  
+  .admins > p {
+    
+    text-transform: uppercase;
+  }
   .hero-container > h1 {
     color: #fff;
     font-size: 100px;

@@ -19,11 +19,14 @@ function HeroSection() {
       <br />       
       <br />
         <div className="admins">
-      <p style={{color: "#ff7600"}}  >Head Admin: ≽︎≽︎≽︎Joker≼︎≼≼ </p>
+      <p style={{color: "#ff7600"}}  >Head Admin: ≽Joker≼ </p>
       <p style={{color: "#00a000"}}  >Head Admin:  - Spark </p>
       <p style={{color: "#0000ff"}}  >Head Admin:  - Boss </p>
       <p style={{color: "#bf0040"}}  >Head Admin:  - chérie </p>
       <p style={{color: "#4000bf"}} >Head Admin:  - nad!.</p>
+      </div>
+      <div className="design">
+        <h1 style={{color: "#2ada70"}} >Web design: Boss</h1>
       </div>
       <div className='hero-btns'>
         <Button
